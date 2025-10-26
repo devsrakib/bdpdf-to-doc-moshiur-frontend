@@ -1,0 +1,120 @@
+--- Page 1 ---
+
+RA
+
+0
+
+=
+
+I E PP OD
+
+01601113299
+devs.rakibulisLam@gmail.com
+
+Dhakkhin banasree, Dhaka
+
+BON ৪9
+
+LinkedIn
+
+SKILLS
+
+Programming Languages
+
+e JavaScript, Typescript, Python( Basic to intermediate )
+
+Mobile Development
+
+e React Native, Expo, React Native Reanimated, React
+
+Native Skia
+Back-end Development (basic)
+e Django, Django REST Framework, PostgreSQL
+e RESTful API design,
+Tools & Technologies
+e Git, GitHub, Xcode, Android Studio
+e Postman
+Testing & Debugging
+e Unit testing, Integration testing
+
+e React Native Debugger, Chrome DevTools
+
+EDUCATION
+
+HIGHER SECONDARY
+CARTIFICATE
+
+Institute: kobirhat Govt. college,
+2021-2022
+
+SECONDARY SCHOOL
+CARTIFICATE
+
+Institute: chaprashir hat A.Rob fazil
+madrasah,
+
+2019-2020
+
+ADDITIONAL INFORMATION.
+e Expanding backend expertise
+with Django and REST APIs.
+
+LANGUAGES.
+e English ( Intermediate ).
+
+KIBUL ISLA
+
+O E R
+
+PROFILE
+
+Motivated Mobile Developer with 2+ years of experience creating
+scalable, user-focused React Native apps. Proficient in JavaScript,
+TypeScript, Redux, and performance optimization. Currently
+expanding skills in backend development with Python (Django,
+DRF).
+
+EXPERIENCE
+
+MOBILE APP DEVELOPER
+Expertsquad.net
+2022 - 2024
+
+e Developed and maintained React Native apps using
+JavaScript and Redux.
+
+e Integrated Django REST APIs to enhance app functionality.
+
+e Reduced crash rates by 15% through effective debugging.
+
+e Optimized performance, achieving 30% faster load times.
+
+e Collaborated with UI/UX teams to create user-friendly
+interfaces.
+
+e Utilized Git and GitHub for version control and teamwork.
+
+VISATHING
+
+MOBILE APP DEVELOPER
+visathing.com
+2025-2025-Aug
+
+e Designed, developed, and maintained cross-platform
+mobile applications using React Native for both Android
+and iOS.
+
+e Integrated REST APIs and implemented state management
+to deliver smooth and responsive user experiences.
+
+e Built and optimized core features including
+authentication, navigation flows, animations, and
+performance tuning.
+
+e Resolved bugs and issues, integrated third-party packages,
+and ensured compatibility across devices.
+
+e Collaborated with the team to define a scalable
+application architecture and improve UI/UX for better user
+engagement.
+

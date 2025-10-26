@@ -1,0 +1,15 @@
+# ------------------------------------
+# Python virtual environment
+# ------------------------------------
+venv/
+.env
+.idea/  # IDE (e.g., PyCharm) project files
+*.pyc   # Compiled Python files
+__pycache__/
+
+# ------------------------------------
+# Django specific files
+# ------------------------------------
+db.sqlite3 # Local database file
+/media # User-uploaded files (often large)
+/static_root # Collected static files
